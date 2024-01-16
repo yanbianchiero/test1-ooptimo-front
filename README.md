@@ -1,18 +1,18 @@
 OOPTIMO Job Application tests — HTML/CSS
 ------------
 
-El ejercicio consiste en maquetar el siguiente diseño usando HTML y CSS.
+In this exercise you have to implement the following design using HTML and CSS.
 
-- [Diseño en Figma](https://www.figma.com/file/ebulzNn90zno6oiKBqtKMP/Web-developer-%E2%80%94-HTML%2FCSS-Test?type=design&node-id=0%3A1&mode=dev)
+- [Figma design](https://www.figma.com/file/ebulzNn90zno6oiKBqtKMP/Web-developer-%E2%80%94-HTML%2FCSS-Test?type=design&node-id=0%3A1&mode=dev)
 
-El proyecto está preparado para usar SCSS pero, si se considera oportuno, se puede cambiar la configuración para usar otros preprocesadores, añadir librerías (p.e Bootstrap, Tailwind, ...), etc.
+The project is prepared to use SCSS but, if considered appropriate, you can change the configuration to use other preprocessors, add libraries (e.g. Bootstrap, Tailwind, ...), etc.
 
-Una vez hecho el ejercicio, enviar zip o link a repositorio a [asunyer@ooptimo.com](mailto:asunyer@ooptimo.com).
+Once the exercise is done, send zip or repository link to [asunyer@ooptimo.com](mailto:asunyer@ooptimo.com).
 
-En caso de dudas o problemas, contactar con [asunyer@ooptimo.com](mailto:asunyer@ooptimo.com).
+In case of questions or problems, please contact [asunyer@ooptimo.com](mailto:asunyer@ooptimo.com).
 
 
-INSTALACIÓN
+INSTALLATION
 ------------
 
 ```
@@ -21,14 +21,14 @@ cd job-application-tests-html
 npm install
 ```
 
-DESARROLLO
+DEVELOPMENT
 ------------
 ```
 npm run dev
 ```
 
-ESTRUCTURA DE DIRECTORIOS
+DIRECTORY STRUCTURE
 -------------------
 
-      css/           Archivo css compilado
-      src/           Archivos fuente (.scss)
+      css/           Compiled css file
+      src/           Source files (.scss)
