@@ -1,8 +1,6 @@
 OOPTIMO Job Application tests — HTML/CSS
 ------------
 
-Se trata de clonar este repositorio, instalar las dependencias y ejecutar el proyecto (instrucciones más abajo).
-
 El ejercicio consiste en maquetar el siguiente diseño usando HTML y CSS.
 
 - [Diseño en Figma](https://www.figma.com/file/ebulzNn90zno6oiKBqtKMP/Web-developer-%E2%80%94-HTML%2FCSS-Test?type=design&node-id=0%3A1&mode=dev)
