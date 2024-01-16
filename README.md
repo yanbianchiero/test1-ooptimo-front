@@ -16,7 +16,7 @@ INSTALACIÓN
 ------------
 
 ```
-git clone git@gitlab.com:ooptimo/job-application-tests-html.git
+git clone https://gitlab.com/ooptimo/job-application-tests-html.git
 cd job-application-tests-html
 npm install
 ```
