@@ -15,7 +15,7 @@ In case of questions or problems, please contact [asunyer@ooptimo.com](mailto:as
 INSTALLATION
 ------------
 
-```
+```shell
 git clone https://gitlab.com/ooptimo/job-application-tests-html.git
 cd job-application-tests-html
 npm install
@@ -23,7 +23,7 @@ npm install
 
 DEVELOPMENT
 ------------
-```
+```shell
 npm run dev
 ```
 
